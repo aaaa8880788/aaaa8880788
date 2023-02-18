@@ -6,63 +6,45 @@
 
 - 👴 我是过来IT讨饭吃的 <a href='https://aaaa8880788.github.io/'>呆头鸭</a>
 - 💼 坐标广州, <em>双非流</em>大学本科牲
-- 🚀  爱好王者荣耀 | 做动态壁纸(ever) | 专研自己喜欢的技术|反射弧略长
+- 🚀  爱好王者荣耀 | 做动态壁纸(ever) | 专研自己喜欢的技术| 视频剪辑
 - 🎯 正在努力成长，<a href='https://aaaa8880788.github.io/'>键盘敲烂，月薪过万</a> 是我的博客
 - 💁 欢迎加入我大哥的 [**web前端养老院**](#-reach-me) 摸鱼
 - ✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ 
 
 ## 🔥 My Tooooys
 
-<img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
+<img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaaa8880788&layout=compact&hide=HTML&theme=react'/>
 
 <ul>
-    <li>🦄 <a href='https://aka.js.cn'>𝐀𝐤𝐚.𝐣𝐬</a> - SSG 框架(开发中) </li>
-    <li>🎯 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
-    <li>🚀 <a href='https://github.com/yesmore/gh-buibuibui-tg'>𝐆𝐢𝐭𝐡𝐮𝐛 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦</a> - 消息推送 </li>
-    <li>✨ <a href='https://github.com/yesmore/gg-bot'>唧唧𝐛𝐨𝐭</a> - tg机器人 </li>
-    <li>🤡 <a href='https://qa.js.cn'>问 · 即答</a> - 耶♂ 是ChatGPT~ </li>
-    <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤 𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
-    <li>❓️ <a href='https://muyu.aoau.top'>功德救赎器</a> - 谁来救赎你？ </li>
-    <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫 𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
-    <li>🎨 <a href='https://github.com/yesmore/cv-mkr'>𝐂𝐕 𝐌𝐊𝐫</a> - 简历生成器 </li>
-    <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器 </li>
-    <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - 疯装的业务组件库</li>
-    <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A Vue3 UI Library </li>
-    <li>👽️ <a href='http://showy.aoau.top/'>S𝐡𝐨𝐰𝐲</a> - 花里胡哨的像素canvas</li>
-    <li>📘 <a href='https://yesmore.cc/cn/Diary/'>𝐉𝐮𝐢ç𝐞杂记</a> - 生活杂记</li>
+    <li>🦄 <a href='https://github.com/aaaa8880788/Graduation-project'>智慧党建平台</a> - 胡乱瞎搞的毕业设计 (开发中) </li>
+    <li>🎯 <a href='https://github.com/aaaa8880788/project-my_cinema_old'>基于Vue2开发的移动端购票系统及相应后台管理系统</a> - 个人自研的全栈小唑品 </li>
+    <li>🚀 <a href='https://github.com/aaaa8880788/react_message_test'>学习react的小案例</a> - antd的Modal玩一玩 </li>
+    <li>✨ <a href='https://github.com/aaaa8880788/project-vue3_ts_shop'>基于vue3与typescipt开发的商城后台管理系统</a> - 让我开始有封装思想的项目 </li>
+    <li>🤡 <a href='https://github.com/aaaa8880788/project-dv_shop'>电商平台数据可视化实时监控项目</a> - Echarts的练习 </li>
+    <li>💁 <a href='王者荣耀手机端官网和管理后台全栈项目'>王者荣耀手机端官网和管理后台全栈项目</a> - 王者荣耀官网(假)</li>
+    <li>❓️ <a href='https://github.com/aaaa8880788/react-router-usage'>React-router</a> - 如何用vue的路由方式使用react的路由 </li>
 </ul>
 
-## 🤖 Reach me
 
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc'/></a>
-<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a>
-<a href='https://t.me/okJuice'><img src='https://img.shields.io/badge/-okJuice-fff?style=flat-square&logo=Telegram'/></a>
-<a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
-<a href='https://space.bilibili.com/299717355'><img src='https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D299717355'/></a>
-<br>
+## 🤖 Reach me
+<a href='mailto:283313959_at_qq.com'><img src='https://img.shields.io/badge/-283313959@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a>
+<a href='https://github.com/aaaa8880788'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daaaa8880788&longCache=true'/></a> 
+<a href='https://space.bilibili.com/474582256'><img src='https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D474582256'/></a>
 <img src='https://img.shields.io/badge/-web前端养老院:982545311-114318'/>
-<a href='https://t.me/yesmore_cc'><img src='https://img.shields.io/badge/-Juiçe的秘密基地-fff?logo=Telegram'/></a>
-<a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 
 <!--
+
 ## ✨ Tech & Skill
 
 <div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat-square&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MINA-09b955?style=flat-square&logo=wechat&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sass-bf608e?style=flat-square&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-Swift-ff6b6b?style=flat-square&logo=swift&logoColor=white">  <br>
+  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat-square&logo=less&logoColor=white">
+  <br>
 
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">	
-  <img src="https://img.shields.io/badge/-GoLand-55b9f3?style=flat-square&logo=go">	
-  <img src="https://img.shields.io/badge/-Python-default?style=flat-square&logo=python">	
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">		
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
 </div>
 
