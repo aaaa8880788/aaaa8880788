@@ -2,14 +2,13 @@
 <img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/>  <img src='https://readme-typing-svg.herokuapp.com?vCenter=true&height=25&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%93%F0%9D%92%86~'/>
   <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesmore%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 	
 </h1>
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aaaa8880788&show_icons=true&theme=react" />
 
-<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
-
-- 👴 我叫 <a href='https://yesmore.cc'>𝐉𝐮𝐢ç𝐞</a>, 或者2meow   
-- 💼 坐标成都, <em>双流一</em>大学本科牲</li>
-- 🚀 爱好<a href='https://500px.com.cn/community/user-details/816c1507a4879ad3a9ab28b2cdf655701'>摄影</a> | 倒装句患者 | 反射弧略长</li> 
-- 🎯 正在学习 Swift，<a href='https://yesmore.cc'>快乐码原</a> 是我的博客
-- 💁 欢迎加入 [**web前端养老院**](#-reach-me) 摸鱼
+- 👴 我是过来IT讨饭吃的 <a href='https://aaaa8880788.github.io/'>呆头鸭</a>
+- 💼 坐标广州, <em>双非流</em>大学本科牲
+- 🚀  爱好王者荣耀 | 做动态壁纸(ever) | 专研自己喜欢的技术|反射弧略长
+- 🎯 正在努力成长，<a href='https://aaaa8880788.github.io/'>键盘敲烂，月薪过万</a> 是我的博客
+- 💁 欢迎加入我大哥的 [**web前端养老院**](#-reach-me) 摸鱼
 - ✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ 
 
 ## 🔥 My Tooooys
