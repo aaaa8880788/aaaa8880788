@@ -35,9 +35,9 @@
 
 ## 🤖 Reach me
 <a href='mailto:283313959_at_qq.com'><img src='https://img.shields.io/badge/-283313959@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a>
-<a href='https://github.com/aaaa8880788'><
-img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daaaa8880788&longCache=true'/></a> 
-<a href='https://space.bilibili.com/474582256'><img src='https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D474582256'/></a>
+<a href='https://space.bilibili.com/474582256'>
+<img src='https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D474582256'/>
+</a>
 <img src='https://img.shields.io/badge/-web前端养老院:982545311-114318'/>
 
 <!--
