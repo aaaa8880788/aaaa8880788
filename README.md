@@ -1,5 +1,5 @@
 <h1>
-<img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/>  <img align="center" src="https://camo.githubusercontent.com/09c356acb12b24c3411fd13eb031b859f8fb5c0afa40d330bf69659fd28d82ae/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733de6b0b8e8bf9ce79bb8e4bfa1e7be8ee5a5bde79a84e4ba8be68385e58db3e5b086e58f91e7949f" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=努力吧，骚年~" style="max-width: 100%;">
+<img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 
   <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesmore%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 	
 </h1>
 
@@ -35,7 +35,8 @@
 
 ## 🤖 Reach me
 <a href='mailto:283313959_at_qq.com'><img src='https://img.shields.io/badge/-283313959@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a>
-<a href='https://github.com/aaaa8880788'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daaaa8880788&longCache=true'/></a> 
+<a href='https://github.com/aaaa8880788'><
+img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daaaa8880788&longCache=true'/></a> 
 <a href='https://space.bilibili.com/474582256'><img src='https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D474582256'/></a>
 <img src='https://img.shields.io/badge/-web前端养老院:982545311-114318'/>
 
